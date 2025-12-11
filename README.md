@@ -49,13 +49,12 @@ Gerçek zamanlı çalışan otonom İHA sistemleri geliştiriyor, YOLOv8, ROS 2,
 
 ## 📫 İletişim
 - GitHub: https://github.com/ibrkrc  
-- Linkedin (istersen ekleyebilirim)
+- Linkedin: https://www.linkedin.com/in/ibrahim-karaca-454385290/
 
 ---
 
 ---
 
-# 🇬🇧 **English Version**
 
 <h1 align="center">👋 Hi, I'm İbrahim KARACA</h1>
 <h3 align="center">Autonomous Systems • Computer Vision • UAV • Artificial Intelligence</h3>
@@ -111,3 +110,4 @@ I work on real-time autonomous UAV systems using technologies such as YOLOv8, RO
 - LinkedIn: https://www.linkedin.com/in/ibrahim-karaca-454385290/
 
 ---
+
